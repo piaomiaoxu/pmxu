@@ -35,7 +35,7 @@ var Paul_Pio = function (prop) {
         },
         //dark模式
         dark: function () {
-            darkstr.data < (prop.night.length - 1) ? darkstr.data++ : darkstr.data = 0;
+            ThemeStyle.theme == "dark"? darkstr.data=0 : darkstr.data = 1;
             return darkstr.data;
         },
         // 创建内容
