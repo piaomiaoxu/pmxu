@@ -73,13 +73,13 @@
 
   // 用到的库
   const LIBS = [
-    'https://pmxu.xyz/diy/Live2d/live2d/lib/pio.css',
-    'https://pmxu.xyz/diy/Live2d/dist/TweenLite.js',
-    'https://pmxu.xyz/diy/Live2d/cubismcore/live2dcubismcore.min.js',
-    'https://pmxu.xyz/diy/Live2d/dist/pixi.min.js',
-    'https://pmxu.xyz/diy/Live2d/dist/cubism4.min.js',
-    'https://pmxu.xyz/diy/Live2d/live2d/lib/pio_sdk4.js',
-    'https://pmxu.xyz/diy/Live2d/live2d/lib/pio.js'
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/live2d/lib/pio.css',
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/dist/TweenLite.js',
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/cubismcore/live2dcubismcore.min.js',
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/dist/pixi.min.js',
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/dist/cubism4.min.js',
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/live2d/lib/pio_sdk4.js',
+    'https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/live2d/lib/pio.js'
   ]
 
 
@@ -132,8 +132,8 @@
         ],
     model: [
       // 待加载的模型列表
-      "https://pmxu.xyz/diy/Live2d/live2d/Diana/Diana.model3.json",
-      "https://pmxu.xyz/diy/Live2d/live2d/Ava/Ava.model3.json",
+      "https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/live2d/Diana/Diana.model3.json",
+      "https://fastly.jsdelivr.net/gh/piaomiaoxu/pmxu@1.0/diy/Live2d/live2d/Ava/Ava.model3.json",
       
     ],
     tips: true, // 时间问好
